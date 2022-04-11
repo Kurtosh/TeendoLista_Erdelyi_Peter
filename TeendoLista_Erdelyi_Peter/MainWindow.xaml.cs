@@ -23,6 +23,7 @@ namespace TeendoLista_Erdelyi_Peter
         public MainWindow()
         {
             InitializeComponent();
+            asd
         }
     }
 }
